@@ -15,3 +15,6 @@ _[Here](https://github.com/sindresorhus/awesome/blob/master/contributing.md) are
 
  * [Readme.io](https://readme.io/) This company focuses on making your docs as beautiful as possible, and as easy as possible. They're responsive and I find that their examples are well thought out.
  * [Swagger.io](http://swagger.io/) Brilliant resources to help make your in-code comments turn into beautiful docs by having an interoperable standard. A huge community has been built around them, too.
+ * [Documentationjs](https://github.com/documentationjs/documentation) This looks fairly good, and is starting to mature. Their integrations look pretty fantastic, too. Only for js. 
+
+### Articles about best practices
