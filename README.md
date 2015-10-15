@@ -9,13 +9,13 @@ _[Here](https://github.com/sindresorhus/awesome/blob/master/contributing.md) are
 ### Awesome Docs
 
  * [Meteor](http://docs.meteor.com/#/basic/) Custom, easy to edit (the team is pretty responsive about editing their docs), and on the whole, quite comprehensive.
- * [Stripe](https://stripe.com/docs/api) This is how docs should look. Absolutely well done. 
+ * [Stripe](https://stripe.com/docs/api) This is how docs should look. Absolutely well done.
 
 ### Documentation Resources
 
- * [Readme.io](https://readme.io/) This company focuses on making your docs as beautiful as possible, and as easy as possible. They're responsive and I find that their examples are well thought out.
- * [Swagger.io](http://swagger.io/) Brilliant resources to help make your in-code comments turn into beautiful docs by having an interoperable standard. A huge community has been built around them, too.
  * [Documentationjs](https://github.com/documentationjs/documentation) This looks fairly good, and is starting to mature. Their integrations look pretty fantastic, too. Only for js.
  * [ExDoc](https://github.com/elixir-lang/ex_doc) ExDoc produces HTML and online documentation for Elixir projects. They are from my knowledge the best auto generated docs any language has. [Example](http://elixir-lang.org/docs/master/elixir/Kernel.html). ~[@Dignifiedquire](https://github.com/Dignifiedquire)
+ * [Readme.io](https://readme.io/) This company focuses on making your docs as beautiful as possible, and as easy as possible. They're responsive and I find that their examples are well thought out.
+ * [Swagger.io](http://swagger.io/) Brilliant resources to help make your in-code comments turn into beautiful docs by having an interoperable standard. A huge community has been built around them, too.
 
 ### Articles about best practices
