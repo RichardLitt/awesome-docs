@@ -8,7 +8,7 @@ _[Here](https://github.com/sindresorhus/awesome/blob/master/contributing.md) are
 
 ### Awesome Docs
 
- * [Django](https://docs.djangoproject.com) The Django docs are a good example of "narrative" style docs, while having great coverage of features and APIs.
+ * [Django](https://docs.djangoproject.com) The Django docs are a good example of "narrative" style docs, while having great coverage of features and APIs. - @tcg
  * [Meteor](http://docs.meteor.com/#/basic/) Custom, easy to edit (the team is pretty responsive about editing their docs), and on the whole, quite comprehensive.
  * [Stripe](https://stripe.com/docs/api) This is how docs should look. Absolutely well done.
 
