@@ -15,6 +15,7 @@ _[Here](https://github.com/sindresorhus/awesome/blob/master/contributing.md) are
  
 ### Documentation Resources
 
+ * [Awesome Code Docs](https://github.com/johnxie/awesome-code-docs) Curated deep-dive tutorials for open-source AI agents, LLM frameworks, and developer tools, with architecture diagrams and code-level walkthroughs. - [@johnxie](https://github.com/johnxie)
  * [Documentationjs](https://github.com/documentationjs/documentation) This looks fairly good, and is starting to mature. Their integrations look pretty fantastic, too. Only for js.
  * [ExDoc](https://github.com/elixir-lang/ex_doc) ExDoc produces HTML and online documentation for Elixir projects. They are from my knowledge the best auto generated docs any language has. [Example](http://elixir-lang.org/docs/master/elixir/Kernel.html). ~[@Dignifiedquire](https://github.com/Dignifiedquire)
  * [Readme.io](https://readme.io/) This company focuses on making your docs as beautiful as possible, and as easy as possible. They're responsive and I find that their examples are well thought out.
